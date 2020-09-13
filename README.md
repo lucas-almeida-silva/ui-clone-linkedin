@@ -11,11 +11,11 @@ This project is a UI clone of the LinkedIn main page, developed with ReactJS, ap
 
 ## Desktop interface
 
-<img src=".github/desktop-interface.png" alt="Desktop" />
+<img src=".github/ui-desktop.png" alt="Desktop" />
 
 ## Mobile interface
 
-<img src=".github/mobile-interface.png" alt="Mobile" />
+<img src=".github/ui-mobile.png" alt="Mobile" />
 
 # :computer: Technologies
 
