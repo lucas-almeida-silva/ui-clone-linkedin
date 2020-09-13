@@ -1,8 +1,3 @@
-<div style="display: flex; flex-direction: row; align-items: center;">
-   <img src=".github/desktop-interface.png" alt="Desktop" width="70%"/>
-   <img src=".github/mobile-interface.png" alt="Mobile" width="30%">
-</div>
-
 # :page_with_curl: Table of Contents
 
 * [About](#information_source-about)
@@ -13,6 +8,14 @@
 # :information_source: About
 
 This project is a UI clone of the LinkedIn main page, developed with ReactJS, appying the shimmer effect.
+
+## Desktop interface
+
+<img src=".github/desktop-interface.png" alt="Desktop" />
+
+## Mobile interface
+
+<img src=".github/mobile-interface.png" alt="Mobile" />
 
 # :computer: Technologies
 
